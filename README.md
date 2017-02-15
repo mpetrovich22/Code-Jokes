@@ -2,13 +2,13 @@ There was an engineer, manager and programmer driving down a steep mountain road
 
 Daddy, how was I born?  Ah, very well, one day you need to find out anyway!  Mom and Dad got together in a chat room.  Dad set up a date via e-mail with your Mom and we met at a cyber cafe.  We snuck into a secluded room, and then your mother downloaded from your dad's memory stick.  As soon as dad was ready for an upload, it was discovered that neither one of us had used a firewall.  Since it was too late to hit the delete button, nine months later the blessed virus appeared.  And that's the story.
 
-Customer: “I can’t seem to connect to the Internet.”
-Tech Support: “Ah, right. What operating system are you running?” 
-Customer: “Netscape.” 
-Tech Support: “No, what version of Windows are you using?” 
-Customer: “Uhhh…Hewlett Packard?” 
-Tech Support: “No, Right click on ‘My Computer,’ and select properties on the menu.” 
-Customer: “Your computer? It’s my computer!”
+Customer: â€œI canâ€™t seem to connect to the Internet.â€
+Tech Support: â€œAh, right. What operating system are you running?â€ 
+Customer: â€œNetscape.â€ 
+Tech Support: â€œNo, what version of Windows are you using?â€ 
+Customer: â€œUhhhâ€¦Hewlett Packard?â€ 
+Tech Support: â€œNo, Right click on â€˜My Computer,â€™ and select properties on the menu.â€ 
+Customer: â€œYour computer? Itâ€™s my computer!â€
 
 A Help desk guy speaking to a lady user... 
 Help desk: Double click on "My Computer". 
